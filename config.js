@@ -14,7 +14,7 @@ const CONFIG = {
   PLAYERS_BIN_ID: "6a6ff03cda38895dfeb18602",
 
   // How many questions per day, split by difficulty.
-  DIFFICULTY_MIX: { easy: 6, medium: 3, hard: 1 },
+  DIFFICULTY_MIX: { easy: 7, medium: 3, hard: 0 },
   
   // Category names to never include in a daily set. Matching is case-insensitive
   // and matches on "contains" — so "Entertainment" excludes every Entertainment:
