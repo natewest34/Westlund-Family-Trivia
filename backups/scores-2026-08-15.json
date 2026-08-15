@@ -1,0 +1,2399 @@
+{
+  "_init": "scores bin — daily results get added automatically",
+  "2026-08-04": {
+    "Nathan": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "When did Vesuvius destroy the city of Pompeii? ",
+          "chosenAnswer": "79 AD",
+          "correctAnswer": "79 AD"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+          "chosenAnswer": "Zambia",
+          "correctAnswer": "Sudan"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the name of Chris's brother in \"Everybody Hates Chris\"?",
+          "chosenAnswer": "Drew",
+          "correctAnswer": "Drew"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following is not the host of a program on NPR?",
+          "chosenAnswer": "Ben Shapiro",
+          "correctAnswer": "Ben Shapiro"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In what year was the first Transformers movie released?",
+          "chosenAnswer": "2007",
+          "correctAnswer": "1986"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "What is the first track on the Dave Matthews Band album \"Before These Crowded Streets\"?",
+          "chosenAnswer": "Stay (Wasting Time)",
+          "correctAnswer": "Pantala Naga Pampa"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "The term \"battery\" to describe an electrical storage device was coined by?",
+          "chosenAnswer": "Nikola Tesla",
+          "correctAnswer": "Benjamin Franklin"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "What did Alfred Hitchcock use as blood in the film \"Psycho\"? ",
+          "chosenAnswer": "Maple syrup",
+          "correctAnswer": "Chocolate syrup"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+          "chosenAnswer": "Qatar",
+          "correctAnswer": "Qatar"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In which year was Nelson Mandela released from prison",
+          "chosenAnswer": "1994",
+          "correctAnswer": "1990"
+        }
+      ],
+      "timeSeconds": 101,
+      "submittedAt": "2026-08-05T02:38:01.478Z"
+    },
+    "Chloe": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "When did Vesuvius destroy the city of Pompeii? ",
+          "chosenAnswer": "79 AD",
+          "correctAnswer": "79 AD"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+          "chosenAnswer": "Tanzania",
+          "correctAnswer": "Sudan"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the name of Chris's brother in \"Everybody Hates Chris\"?",
+          "chosenAnswer": "Jerome",
+          "correctAnswer": "Drew"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following is not the host of a program on NPR?",
+          "chosenAnswer": "Ben Shapiro",
+          "correctAnswer": "Ben Shapiro"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In what year was the first Transformers movie released?",
+          "chosenAnswer": "2007",
+          "correctAnswer": "1986"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "What is the first track on the Dave Matthews Band album \"Before These Crowded Streets\"?",
+          "chosenAnswer": "Stay (Wasting Time)",
+          "correctAnswer": "Pantala Naga Pampa"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "The term \"battery\" to describe an electrical storage device was coined by?",
+          "chosenAnswer": "Nikola Tesla",
+          "correctAnswer": "Benjamin Franklin"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "What did Alfred Hitchcock use as blood in the film \"Psycho\"? ",
+          "chosenAnswer": "Chocolate syrup",
+          "correctAnswer": "Chocolate syrup"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+          "chosenAnswer": "Jordan",
+          "correctAnswer": "Qatar"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In which year was Nelson Mandela released from prison",
+          "chosenAnswer": "1980",
+          "correctAnswer": "1990"
+        }
+      ],
+      "timeSeconds": 72,
+      "submittedAt": "2026-08-05T02:38:50.314Z"
+    },
+    "Cindy": {
+      "score": 2,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "When did Vesuvius destroy the city of Pompeii? ",
+          "chosenAnswer": "31 BC",
+          "correctAnswer": "79 AD"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+          "chosenAnswer": "Sudan",
+          "correctAnswer": "Sudan"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the name of Chris's brother in \"Everybody Hates Chris\"?",
+          "chosenAnswer": "Jerome",
+          "correctAnswer": "Drew"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is not the host of a program on NPR?",
+          "chosenAnswer": "Ira Glass",
+          "correctAnswer": "Ben Shapiro"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In what year was the first Transformers movie released?",
+          "chosenAnswer": "2007",
+          "correctAnswer": "1986"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "What is the first track on the Dave Matthews Band album \"Before These Crowded Streets\"?",
+          "chosenAnswer": "Don't Drink The Water",
+          "correctAnswer": "Pantala Naga Pampa"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The term \"battery\" to describe an electrical storage device was coined by?",
+          "chosenAnswer": "Benjamin Franklin",
+          "correctAnswer": "Benjamin Franklin"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "What did Alfred Hitchcock use as blood in the film \"Psycho\"? ",
+          "chosenAnswer": "Maple syrup",
+          "correctAnswer": "Chocolate syrup"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+          "chosenAnswer": "Kuwait",
+          "correctAnswer": "Qatar"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In which year was Nelson Mandela released from prison",
+          "chosenAnswer": "1980",
+          "correctAnswer": "1990"
+        }
+      ],
+      "timeSeconds": 66,
+      "submittedAt": "2026-08-05T02:47:21.268Z"
+    },
+    "Michaela": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "When did Vesuvius destroy the city of Pompeii? ",
+          "chosenAnswer": "79 AD",
+          "correctAnswer": "79 AD"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+          "chosenAnswer": "Zambia",
+          "correctAnswer": "Sudan"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the name of Chris's brother in \"Everybody Hates Chris\"?",
+          "chosenAnswer": "Jerome",
+          "correctAnswer": "Drew"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following is not the host of a program on NPR?",
+          "chosenAnswer": "Ben Shapiro",
+          "correctAnswer": "Ben Shapiro"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In what year was the first Transformers movie released?",
+          "chosenAnswer": "2009",
+          "correctAnswer": "1986"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "What is the first track on the Dave Matthews Band album \"Before These Crowded Streets\"?",
+          "chosenAnswer": "Don't Drink The Water",
+          "correctAnswer": "Pantala Naga Pampa"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "The term \"battery\" to describe an electrical storage device was coined by?",
+          "chosenAnswer": "Luigi Galvani",
+          "correctAnswer": "Benjamin Franklin"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "What did Alfred Hitchcock use as blood in the film \"Psycho\"? ",
+          "chosenAnswer": "Chocolate syrup",
+          "correctAnswer": "Chocolate syrup"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+          "chosenAnswer": "United Arab Emirates",
+          "correctAnswer": "Qatar"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In which year was Nelson Mandela released from prison",
+          "chosenAnswer": "1994",
+          "correctAnswer": "1990"
+        }
+      ],
+      "timeSeconds": 84,
+      "submittedAt": "2026-08-05T02:54:48.784Z"
+    }
+  },
+  "2026-08-05": {
+    "Chloe": {
+      "score": 5,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Politics",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who was the 45th President of the United States?",
+          "chosenAnswer": "Donald Trump",
+          "correctAnswer": "Donald Trump"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the capital of Denmark?",
+          "chosenAnswer": "Copenhagen",
+          "correctAnswer": "Copenhagen"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who was the winner of the 2016 WWE Royal Rumble?",
+          "chosenAnswer": "Triple H",
+          "correctAnswer": "Triple H"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "This Canadian television sportscaster is known for his \"Hockey Night in Canada\" role, a commentary show during hockey games.",
+          "chosenAnswer": "Don Taylor ",
+          "correctAnswer": "Don Cherry"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who had hits in the 70s with the songs \"Lonely Boy\" and \"Never Let Her Slip Away\"?",
+          "chosenAnswer": "Elton John",
+          "correctAnswer": "Andrew Gold"
+        },
+        {
+          "category": "Art",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which Van Gogh painting depicts the view from his asylum in Saint-Rémy-de-Provence in southern France?",
+          "chosenAnswer": "The Church at Auvers",
+          "correctAnswer": "The Starry Night"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who was a military strategist in the Eastern Zhou period?",
+          "chosenAnswer": "Sun Tzu",
+          "correctAnswer": "Sun Tzu"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Coulrophobia is the irrational fear of what?",
+          "chosenAnswer": "Tunnels",
+          "correctAnswer": "Clowns"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What was the African nation of Zimbabwe formerly known as?",
+          "chosenAnswer": "Mozambique",
+          "correctAnswer": "Rhodesia"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "71% of the Earth's surface is made up of",
+          "chosenAnswer": "Water",
+          "correctAnswer": "Water"
+        }
+      ],
+      "timeSeconds": 65,
+      "submittedAt": "2026-08-05T13:32:33.299Z"
+    },
+    "Doug": {
+      "score": 6,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Politics",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Who was the 45th President of the United States?",
+          "chosenAnswer": "Barack Obama",
+          "correctAnswer": "Donald Trump"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the capital of Denmark?",
+          "chosenAnswer": "Copenhagen",
+          "correctAnswer": "Copenhagen"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who was the winner of the 2016 WWE Royal Rumble?",
+          "chosenAnswer": "Roman Reigns",
+          "correctAnswer": "Triple H"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "This Canadian television sportscaster is known for his \"Hockey Night in Canada\" role, a commentary show during hockey games.",
+          "chosenAnswer": "Don Cherry",
+          "correctAnswer": "Don Cherry"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who had hits in the 70s with the songs \"Lonely Boy\" and \"Never Let Her Slip Away\"?",
+          "chosenAnswer": "Leo Sayer",
+          "correctAnswer": "Andrew Gold"
+        },
+        {
+          "category": "Art",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which Van Gogh painting depicts the view from his asylum in Saint-Rémy-de-Provence in southern France?",
+          "chosenAnswer": "The Starry Night",
+          "correctAnswer": "The Starry Night"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who was a military strategist in the Eastern Zhou period?",
+          "chosenAnswer": "Sun Tzu",
+          "correctAnswer": "Sun Tzu"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "Coulrophobia is the irrational fear of what?",
+          "chosenAnswer": "Clowns",
+          "correctAnswer": "Clowns"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What was the African nation of Zimbabwe formerly known as?",
+          "chosenAnswer": "Mozambique",
+          "correctAnswer": "Rhodesia"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "71% of the Earth's surface is made up of",
+          "chosenAnswer": "Water",
+          "correctAnswer": "Water"
+        }
+      ],
+      "timeSeconds": 50,
+      "submittedAt": "2026-08-05T14:52:22.381Z"
+    },
+    "Cindy": {
+      "score": 5,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Politics",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Who was the 45th President of the United States?",
+          "chosenAnswer": "Bill Clinton",
+          "correctAnswer": "Donald Trump"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the capital of Denmark?",
+          "chosenAnswer": "Copenhagen",
+          "correctAnswer": "Copenhagen"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who was the winner of the 2016 WWE Royal Rumble?",
+          "chosenAnswer": "Triple H",
+          "correctAnswer": "Triple H"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "This Canadian television sportscaster is known for his \"Hockey Night in Canada\" role, a commentary show during hockey games.",
+          "chosenAnswer": "Don Cherry",
+          "correctAnswer": "Don Cherry"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who had hits in the 70s with the songs \"Lonely Boy\" and \"Never Let Her Slip Away\"?",
+          "chosenAnswer": "Elton John",
+          "correctAnswer": "Andrew Gold"
+        },
+        {
+          "category": "Art",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which Van Gogh painting depicts the view from his asylum in Saint-Rémy-de-Provence in southern France?",
+          "chosenAnswer": "The Starry Night",
+          "correctAnswer": "The Starry Night"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who was a military strategist in the Eastern Zhou period?",
+          "chosenAnswer": "Genghis Khan",
+          "correctAnswer": "Sun Tzu"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Coulrophobia is the irrational fear of what?",
+          "chosenAnswer": "Cemeteries",
+          "correctAnswer": "Clowns"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What was the African nation of Zimbabwe formerly known as?",
+          "chosenAnswer": "Zambia",
+          "correctAnswer": "Rhodesia"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "71% of the Earth's surface is made up of",
+          "chosenAnswer": "Water",
+          "correctAnswer": "Water"
+        }
+      ],
+      "timeSeconds": 88,
+      "submittedAt": "2026-08-05T22:09:34.299Z"
+    },
+    "Nathan": {
+      "score": 6,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Politics",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who was the 45th President of the United States?",
+          "chosenAnswer": "Donald Trump",
+          "correctAnswer": "Donald Trump"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the capital of Denmark?",
+          "chosenAnswer": "Copenhagen",
+          "correctAnswer": "Copenhagen"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who was the winner of the 2016 WWE Royal Rumble?",
+          "chosenAnswer": "Triple H",
+          "correctAnswer": "Triple H"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "This Canadian television sportscaster is known for his \"Hockey Night in Canada\" role, a commentary show during hockey games.",
+          "chosenAnswer": "Don McKellar",
+          "correctAnswer": "Don Cherry"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who had hits in the 70s with the songs \"Lonely Boy\" and \"Never Let Her Slip Away\"?",
+          "chosenAnswer": "Elton John",
+          "correctAnswer": "Andrew Gold"
+        },
+        {
+          "category": "Art",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which Van Gogh painting depicts the view from his asylum in Saint-Rémy-de-Provence in southern France?",
+          "chosenAnswer": "The Starry Night",
+          "correctAnswer": "The Starry Night"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who was a military strategist in the Eastern Zhou period?",
+          "chosenAnswer": "Sun Tzu",
+          "correctAnswer": "Sun Tzu"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Coulrophobia is the irrational fear of what?",
+          "chosenAnswer": "Tunnels",
+          "correctAnswer": "Clowns"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What was the African nation of Zimbabwe formerly known as?",
+          "chosenAnswer": "Zambia",
+          "correctAnswer": "Rhodesia"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "71% of the Earth's surface is made up of",
+          "chosenAnswer": "Water",
+          "correctAnswer": "Water"
+        }
+      ],
+      "timeSeconds": 59,
+      "submittedAt": "2026-08-06T02:40:52.343Z"
+    },
+    "Michaela": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Politics",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who was the 45th President of the United States?",
+          "chosenAnswer": "Donald Trump",
+          "correctAnswer": "Donald Trump"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the capital of Denmark?",
+          "chosenAnswer": "Copenhagen",
+          "correctAnswer": "Copenhagen"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who was the winner of the 2016 WWE Royal Rumble?",
+          "chosenAnswer": "Roman Reigns",
+          "correctAnswer": "Triple H"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "This Canadian television sportscaster is known for his \"Hockey Night in Canada\" role, a commentary show during hockey games.",
+          "chosenAnswer": "Don McKellar",
+          "correctAnswer": "Don Cherry"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who had hits in the 70s with the songs \"Lonely Boy\" and \"Never Let Her Slip Away\"?",
+          "chosenAnswer": "Barry White ",
+          "correctAnswer": "Andrew Gold"
+        },
+        {
+          "category": "Art",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which Van Gogh painting depicts the view from his asylum in Saint-Rémy-de-Provence in southern France?",
+          "chosenAnswer": "The Starry Night",
+          "correctAnswer": "The Starry Night"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who was a military strategist in the Eastern Zhou period?",
+          "chosenAnswer": "Genghis Khan",
+          "correctAnswer": "Sun Tzu"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Coulrophobia is the irrational fear of what?",
+          "chosenAnswer": "Tunnels",
+          "correctAnswer": "Clowns"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What was the African nation of Zimbabwe formerly known as?",
+          "chosenAnswer": "Mozambique",
+          "correctAnswer": "Rhodesia"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "71% of the Earth's surface is made up of",
+          "chosenAnswer": "Water",
+          "correctAnswer": "Water"
+        }
+      ],
+      "timeSeconds": 87,
+      "submittedAt": "2026-08-06T02:46:14.478Z"
+    }
+  },
+  "2026-08-06": {
+    "Nathan": {
+      "score": 6,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following landmarks is not located in New York City?",
+          "chosenAnswer": "Lincoln Memorial",
+          "correctAnswer": "Lincoln Memorial"
+        },
+        {
+          "category": "History",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Who was the first man to travel into outer space twice?",
+          "chosenAnswer": "Yuri Gagarin",
+          "correctAnswer": "Gus Grissom"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Which species of Brown Bear is not extinct?",
+          "chosenAnswer": "California Grizzly Bear",
+          "correctAnswer": "Syrian Brown Bear"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "How many bits make up the significand portion of a single precision floating point number?",
+          "chosenAnswer": "8",
+          "correctAnswer": "23"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "In \"Breaking Bad,\" which main character was planned to be killed in Season 1 but wasn't because the show creator liked the actor?",
+          "chosenAnswer": "Jesse Pinkman",
+          "correctAnswer": "Jesse Pinkman"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which country was an allied power in World War II?",
+          "chosenAnswer": "Soviet Union",
+          "correctAnswer": "Soviet Union"
+        },
+        {
+          "category": "Science: Mathematics",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Which of these numbers is closest to the total number of possible states for an army standard Enigma Machine?",
+          "chosenAnswer": "1.58 x 10^24",
+          "correctAnswer": "1.58 x 10^20"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Guy's Grocery Games is hosted by which presenter?",
+          "chosenAnswer": "Guy Fieri",
+          "correctAnswer": "Guy Fieri"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which Russian oblast forms a border with Poland?",
+          "chosenAnswer": "Kaliningrad",
+          "correctAnswer": "Kaliningrad"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What's Harry Potter's dad's name?",
+          "chosenAnswer": "James Potter",
+          "correctAnswer": "James Potter"
+        }
+      ],
+      "timeSeconds": 84,
+      "submittedAt": "2026-08-06T19:16:40.144Z"
+    },
+    "Doug": {
+      "score": 7,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following landmarks is not located in New York City?",
+          "chosenAnswer": "Lincoln Memorial",
+          "correctAnswer": "Lincoln Memorial"
+        },
+        {
+          "category": "History",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Who was the first man to travel into outer space twice?",
+          "chosenAnswer": "Yuri Gagarin",
+          "correctAnswer": "Gus Grissom"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Which species of Brown Bear is not extinct?",
+          "chosenAnswer": "Atlas Bear",
+          "correctAnswer": "Syrian Brown Bear"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "How many bits make up the significand portion of a single precision floating point number?",
+          "chosenAnswer": "23",
+          "correctAnswer": "23"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "In \"Breaking Bad,\" which main character was planned to be killed in Season 1 but wasn't because the show creator liked the actor?",
+          "chosenAnswer": "Jesse Pinkman",
+          "correctAnswer": "Jesse Pinkman"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which country was an allied power in World War II?",
+          "chosenAnswer": "Soviet Union",
+          "correctAnswer": "Soviet Union"
+        },
+        {
+          "category": "Science: Mathematics",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "Which of these numbers is closest to the total number of possible states for an army standard Enigma Machine?",
+          "chosenAnswer": "1.58 x 10^20",
+          "correctAnswer": "1.58 x 10^20"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Guy's Grocery Games is hosted by which presenter?",
+          "chosenAnswer": "Guy Fieri",
+          "correctAnswer": "Guy Fieri"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which Russian oblast forms a border with Poland?",
+          "chosenAnswer": "Omsk",
+          "correctAnswer": "Kaliningrad"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What's Harry Potter's dad's name?",
+          "chosenAnswer": "James Potter",
+          "correctAnswer": "James Potter"
+        }
+      ],
+      "timeSeconds": 58,
+      "submittedAt": "2026-08-07T02:29:08.161Z"
+    },
+    "Michaela": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following landmarks is not located in New York City?",
+          "chosenAnswer": "Lincoln Memorial",
+          "correctAnswer": "Lincoln Memorial"
+        },
+        {
+          "category": "History",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Who was the first man to travel into outer space twice?",
+          "chosenAnswer": "Vladimir Komarov",
+          "correctAnswer": "Gus Grissom"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Which species of Brown Bear is not extinct?",
+          "chosenAnswer": "California Grizzly Bear",
+          "correctAnswer": "Syrian Brown Bear"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "How many bits make up the significand portion of a single precision floating point number?",
+          "chosenAnswer": "8",
+          "correctAnswer": "23"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In \"Breaking Bad,\" which main character was planned to be killed in Season 1 but wasn't because the show creator liked the actor?",
+          "chosenAnswer": "Hank Schrader",
+          "correctAnswer": "Jesse Pinkman"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which country was an allied power in World War II?",
+          "chosenAnswer": "Italy",
+          "correctAnswer": "Soviet Union"
+        },
+        {
+          "category": "Science: Mathematics",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Which of these numbers is closest to the total number of possible states for an army standard Enigma Machine?",
+          "chosenAnswer": "1.58 x 10^24",
+          "correctAnswer": "1.58 x 10^20"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Guy's Grocery Games is hosted by which presenter?",
+          "chosenAnswer": "Guy Fieri",
+          "correctAnswer": "Guy Fieri"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which Russian oblast forms a border with Poland?",
+          "chosenAnswer": "Omsk",
+          "correctAnswer": "Kaliningrad"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What's Harry Potter's dad's name?",
+          "chosenAnswer": "James Potter",
+          "correctAnswer": "James Potter"
+        }
+      ],
+      "timeSeconds": 84,
+      "submittedAt": "2026-08-07T04:25:22.279Z"
+    }
+  },
+  "2026-08-07": {
+    "Cindy": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who wrote the \"A Song of Ice And Fire\" fantasy novel series?",
+          "chosenAnswer": "George Eliot",
+          "correctAnswer": "George R. R. Martin"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which modern country is known as \"The Graveyard of Empires\"?",
+          "chosenAnswer": "Russia",
+          "correctAnswer": "Afghanistan"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "How many syllables make up a haiku?",
+          "chosenAnswer": "10",
+          "correctAnswer": "17"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "A collection of Sanskrit hymns and verses known as the Vedas are sacred texts in what religion?",
+          "chosenAnswer": "Buddhism",
+          "correctAnswer": "Hinduism"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which team won 2014 FIFA World Cup in Brazil?",
+          "chosenAnswer": "Germany",
+          "correctAnswer": "Germany"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following songs was not originally released by Sir Elton John? ",
+          "chosenAnswer": "I Don't Wanna Go On With You Like That",
+          "correctAnswer": "You'll Be In My Heart"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+          "chosenAnswer": "55",
+          "correctAnswer": "55"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In 2006, which band released their debut album \"A Fever You Can't Sweat Out\"?",
+          "chosenAnswer": "Fall Out Boy",
+          "correctAnswer": "Panic! At the Disco"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "Where is the fast food chain \"Panda Express\" headquartered?",
+          "chosenAnswer": "Rosemead, California",
+          "correctAnswer": "Rosemead, California"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which player holds the NHL record of 2,857 points?",
+          "chosenAnswer": "Wayne Gretzky",
+          "correctAnswer": "Wayne Gretzky"
+        }
+      ],
+      "timeSeconds": 80,
+      "submittedAt": "2026-08-07T11:34:29.062Z"
+    },
+    "Nathan": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who wrote the \"A Song of Ice And Fire\" fantasy novel series?",
+          "chosenAnswer": "George R. R. Martin",
+          "correctAnswer": "George R. R. Martin"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which modern country is known as \"The Graveyard of Empires\"?",
+          "chosenAnswer": "Afghanistan",
+          "correctAnswer": "Afghanistan"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "How many syllables make up a haiku?",
+          "chosenAnswer": "15",
+          "correctAnswer": "17"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "A collection of Sanskrit hymns and verses known as the Vedas are sacred texts in what religion?",
+          "chosenAnswer": "Islam",
+          "correctAnswer": "Hinduism"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which team won 2014 FIFA World Cup in Brazil?",
+          "chosenAnswer": "Brazil",
+          "correctAnswer": "Germany"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following songs was not originally released by Sir Elton John? ",
+          "chosenAnswer": "Crocodile Rock",
+          "correctAnswer": "You'll Be In My Heart"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+          "chosenAnswer": "60",
+          "correctAnswer": "55"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In 2006, which band released their debut album \"A Fever You Can't Sweat Out\"?",
+          "chosenAnswer": "My Chemical Romance",
+          "correctAnswer": "Panic! At the Disco"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Where is the fast food chain \"Panda Express\" headquartered?",
+          "chosenAnswer": "Fresno, California",
+          "correctAnswer": "Rosemead, California"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which player holds the NHL record of 2,857 points?",
+          "chosenAnswer": "Wayne Gretzky",
+          "correctAnswer": "Wayne Gretzky"
+        }
+      ],
+      "timeSeconds": 81,
+      "submittedAt": "2026-08-07T15:15:06.898Z"
+    },
+    "Chloe": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who wrote the \"A Song of Ice And Fire\" fantasy novel series?",
+          "chosenAnswer": "George R. R. Martin",
+          "correctAnswer": "George R. R. Martin"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which modern country is known as \"The Graveyard of Empires\"?",
+          "chosenAnswer": "China",
+          "correctAnswer": "Afghanistan"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "How many syllables make up a haiku?",
+          "chosenAnswer": "21",
+          "correctAnswer": "17"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "A collection of Sanskrit hymns and verses known as the Vedas are sacred texts in what religion?",
+          "chosenAnswer": "Buddhism",
+          "correctAnswer": "Hinduism"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which team won 2014 FIFA World Cup in Brazil?",
+          "chosenAnswer": "Germany",
+          "correctAnswer": "Germany"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following songs was not originally released by Sir Elton John? ",
+          "chosenAnswer": "Candle in the Wind",
+          "correctAnswer": "You'll Be In My Heart"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+          "chosenAnswer": "60",
+          "correctAnswer": "55"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In 2006, which band released their debut album \"A Fever You Can't Sweat Out\"?",
+          "chosenAnswer": "Panic! At the Disco",
+          "correctAnswer": "Panic! At the Disco"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Where is the fast food chain \"Panda Express\" headquartered?",
+          "chosenAnswer": "Sacramento, California",
+          "correctAnswer": "Rosemead, California"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which player holds the NHL record of 2,857 points?",
+          "chosenAnswer": "Wayne Gretzky",
+          "correctAnswer": "Wayne Gretzky"
+        }
+      ],
+      "timeSeconds": 53,
+      "submittedAt": "2026-08-08T00:45:27.400Z"
+    },
+    "Michaela": {
+      "score": 5,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who wrote the \"A Song of Ice And Fire\" fantasy novel series?",
+          "chosenAnswer": "George R. R. Martin",
+          "correctAnswer": "George R. R. Martin"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which modern country is known as \"The Graveyard of Empires\"?",
+          "chosenAnswer": "Iraq",
+          "correctAnswer": "Afghanistan"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "How many syllables make up a haiku?",
+          "chosenAnswer": "17",
+          "correctAnswer": "17"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "A collection of Sanskrit hymns and verses known as the Vedas are sacred texts in what religion?",
+          "chosenAnswer": "Hinduism",
+          "correctAnswer": "Hinduism"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which team won 2014 FIFA World Cup in Brazil?",
+          "chosenAnswer": "Argentina",
+          "correctAnswer": "Germany"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following songs was not originally released by Sir Elton John? ",
+          "chosenAnswer": "Candle in the Wind",
+          "correctAnswer": "You'll Be In My Heart"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+          "chosenAnswer": "54",
+          "correctAnswer": "55"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In 2006, which band released their debut album \"A Fever You Can't Sweat Out\"?",
+          "chosenAnswer": "Panic! At the Disco",
+          "correctAnswer": "Panic! At the Disco"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Where is the fast food chain \"Panda Express\" headquartered?",
+          "chosenAnswer": "Fresno, California",
+          "correctAnswer": "Rosemead, California"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which player holds the NHL record of 2,857 points?",
+          "chosenAnswer": "Wayne Gretzky",
+          "correctAnswer": "Wayne Gretzky"
+        }
+      ],
+      "timeSeconds": 70,
+      "submittedAt": "2026-08-08T04:14:35.489Z"
+    }
+  },
+  "2026-08-08": {
+    "Cindy": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+          "chosenAnswer": "Gnarly.",
+          "correctAnswer": "Groovy."
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "In the 1964 film \"Zulu\", what song does the British Army company sing before the final battle?",
+          "chosenAnswer": "Scotland the Brave",
+          "correctAnswer": "Men of Harlech"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+          "chosenAnswer": "The presence or absence of a nucleus",
+          "correctAnswer": "The presence or absence of a nucleus"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+          "chosenAnswer": "Florida",
+          "correctAnswer": "Ohio"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Who in Pulp Fiction says \"No, they got the metric system there, they wouldn't know what the f*** a Quarter Pounder is.\"",
+          "chosenAnswer": "Jules Winnfield",
+          "correctAnswer": "Vincent Vega"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "When was Pong released?",
+          "chosenAnswer": "December 14, 1974",
+          "correctAnswer": "November 29, 1972"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What historical time period was the center of the Assassin’s Creed movie (2016)?",
+          "chosenAnswer": "French Revolution",
+          "correctAnswer": "Spanish Inquisition"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "The medical condition osteoporosis affects which part of the body?",
+          "chosenAnswer": "Bones",
+          "correctAnswer": "Bones"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+          "chosenAnswer": "Central African Republic",
+          "correctAnswer": "Sudan"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of these is the name of a song by Tears for Fears?",
+          "chosenAnswer": "Shout",
+          "correctAnswer": "Shout"
+        }
+      ],
+      "timeSeconds": 85,
+      "submittedAt": "2026-08-08T14:45:13.370Z"
+    },
+    "Nathan": {
+      "score": 7,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+          "chosenAnswer": "Groovy.",
+          "correctAnswer": "Groovy."
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "In the 1964 film \"Zulu\", what song does the British Army company sing before the final battle?",
+          "chosenAnswer": "Scotland the Brave",
+          "correctAnswer": "Men of Harlech"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+          "chosenAnswer": "The presence or absence of a nucleus",
+          "correctAnswer": "The presence or absence of a nucleus"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+          "chosenAnswer": "New Mexico",
+          "correctAnswer": "Ohio"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Who in Pulp Fiction says \"No, they got the metric system there, they wouldn't know what the f*** a Quarter Pounder is.\"",
+          "chosenAnswer": "Butch Coolidge",
+          "correctAnswer": "Vincent Vega"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "When was Pong released?",
+          "chosenAnswer": "November 29, 1972",
+          "correctAnswer": "November 29, 1972"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What historical time period was the center of the Assassin’s Creed movie (2016)?",
+          "chosenAnswer": "Spanish Inquisition",
+          "correctAnswer": "Spanish Inquisition"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "The medical condition osteoporosis affects which part of the body?",
+          "chosenAnswer": "Bones",
+          "correctAnswer": "Bones"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+          "chosenAnswer": "Sudan",
+          "correctAnswer": "Sudan"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of these is the name of a song by Tears for Fears?",
+          "chosenAnswer": "Shout",
+          "correctAnswer": "Shout"
+        }
+      ],
+      "timeSeconds": 104,
+      "submittedAt": "2026-08-08T14:56:51.656Z"
+    },
+    "Michaela": {
+      "score": 7,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+          "chosenAnswer": "Gnarly.",
+          "correctAnswer": "Groovy."
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "In the 1964 film \"Zulu\", what song does the British Army company sing before the final battle?",
+          "chosenAnswer": "Colonel Bogey March",
+          "correctAnswer": "Men of Harlech"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+          "chosenAnswer": "The presence or absence of a nucleus",
+          "correctAnswer": "The presence or absence of a nucleus"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+          "chosenAnswer": "New Mexico",
+          "correctAnswer": "Ohio"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who in Pulp Fiction says \"No, they got the metric system there, they wouldn't know what the f*** a Quarter Pounder is.\"",
+          "chosenAnswer": "Vincent Vega",
+          "correctAnswer": "Vincent Vega"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "When was Pong released?",
+          "chosenAnswer": "November 29, 1972",
+          "correctAnswer": "November 29, 1972"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What historical time period was the center of the Assassin’s Creed movie (2016)?",
+          "chosenAnswer": "Spanish Inquisition",
+          "correctAnswer": "Spanish Inquisition"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "The medical condition osteoporosis affects which part of the body?",
+          "chosenAnswer": "Bones",
+          "correctAnswer": "Bones"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+          "chosenAnswer": "Sudan",
+          "correctAnswer": "Sudan"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of these is the name of a song by Tears for Fears?",
+          "chosenAnswer": "Shout",
+          "correctAnswer": "Shout"
+        }
+      ],
+      "timeSeconds": 89,
+      "submittedAt": "2026-08-09T01:36:14.801Z"
+    }
+  },
+  "2026-08-09": {
+    "Nathan": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the name of the second studio album released by American rapper Post Malone in 2018?",
+          "chosenAnswer": "Rockstar",
+          "correctAnswer": "Beerbongs & Bentleys"
+        },
+        {
+          "category": "Science: Mathematics",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "How many square faces does a cube have?",
+          "chosenAnswer": "6",
+          "correctAnswer": "6"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+          "chosenAnswer": "Taurus",
+          "correctAnswer": "Libra"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What alcoholic drink is made from molasses?",
+          "chosenAnswer": "Gin",
+          "correctAnswer": "Rum"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What was Radiohead's first album?",
+          "chosenAnswer": "Kid A",
+          "correctAnswer": "Pablo Honey"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What national team won the first UEFA Nations League?",
+          "chosenAnswer": "England",
+          "correctAnswer": "Portugal"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "What was the date of original airing of the pilot episode of My Little Pony: Friendship is Magic?",
+          "chosenAnswer": "October 10th, 2010",
+          "correctAnswer": "October 10th, 2010"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+          "chosenAnswer": "Biryani",
+          "correctAnswer": "Tandoori"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as \"Grease Gun\"?",
+          "chosenAnswer": "M3",
+          "correctAnswer": "M3"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the best selling album of all time from 1976 to 2018?",
+          "chosenAnswer": "Thriller",
+          "correctAnswer": "Thriller"
+        }
+      ],
+      "timeSeconds": 66,
+      "submittedAt": "2026-08-09T15:06:54.827Z"
+    },
+    "Michaela": {
+      "score": 2,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the name of the second studio album released by American rapper Post Malone in 2018?",
+          "chosenAnswer": "Rockstar",
+          "correctAnswer": "Beerbongs & Bentleys"
+        },
+        {
+          "category": "Science: Mathematics",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "How many square faces does a cube have?",
+          "chosenAnswer": "8",
+          "correctAnswer": "6"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+          "chosenAnswer": "Capricorn",
+          "correctAnswer": "Libra"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What alcoholic drink is made from molasses?",
+          "chosenAnswer": "Whisky",
+          "correctAnswer": "Rum"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What was Radiohead's first album?",
+          "chosenAnswer": "A Moon Shaped Pool",
+          "correctAnswer": "Pablo Honey"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What national team won the first UEFA Nations League?",
+          "chosenAnswer": "Portugal",
+          "correctAnswer": "Portugal"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "What was the date of original airing of the pilot episode of My Little Pony: Friendship is Magic?",
+          "chosenAnswer": "April 14th, 1984",
+          "correctAnswer": "October 10th, 2010"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+          "chosenAnswer": "Tiki masala",
+          "correctAnswer": "Tandoori"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as \"Grease Gun\"?",
+          "chosenAnswer": "M3",
+          "correctAnswer": "M3"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the best selling album of all time from 1976 to 2018?",
+          "chosenAnswer": "The Dark Side of the Moon",
+          "correctAnswer": "Thriller"
+        }
+      ],
+      "timeSeconds": 78,
+      "submittedAt": "2026-08-10T04:12:36.866Z"
+    }
+  },
+  "2026-08-10": {
+    "Nathan": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the real name of American rapper Eminem, also known as Slim Shady?",
+          "chosenAnswer": "Marshall Mathers",
+          "correctAnswer": "Marshall Mathers"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "The 'Islets of Langerhans' is found in which human organ?",
+          "chosenAnswer": "Liver",
+          "correctAnswer": "Pancreas"
+        },
+        {
+          "category": "Vehicles",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Which of the following Union Pacific 'Big Boy' locomotives was restored to working order in 2019?",
+          "chosenAnswer": "4000",
+          "correctAnswer": "4014"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the lowest layer of the Earth's atmosphere named?",
+          "chosenAnswer": "Stratosphere",
+          "correctAnswer": "Troposphere"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "According to scholarly estimates, what percentage of the world population at the time died due to Tamerlane's conquests?",
+          "chosenAnswer": "3%",
+          "correctAnswer": "5%"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In an orchestra, what is the lowest member of the brass family?",
+          "chosenAnswer": "Tuba",
+          "correctAnswer": "Tuba"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is Canada's smallest province?",
+          "chosenAnswer": "Nova Scotia",
+          "correctAnswer": "Prince Edward Island"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+          "chosenAnswer": "Hannibal",
+          "correctAnswer": "Hannibal"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which element has the chemical symbol 'Fe'?",
+          "chosenAnswer": "Iron",
+          "correctAnswer": "Iron"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "What type of creature is a Bonobo?",
+          "chosenAnswer": "Parrot",
+          "correctAnswer": "Ape"
+        }
+      ],
+      "timeSeconds": 67,
+      "submittedAt": "2026-08-10T13:50:58.036Z"
+    },
+    "Michaela": {
+      "score": 5,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the real name of American rapper Eminem, also known as Slim Shady?",
+          "chosenAnswer": "Marshall Mathers",
+          "correctAnswer": "Marshall Mathers"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "The 'Islets of Langerhans' is found in which human organ?",
+          "chosenAnswer": "Pancreas",
+          "correctAnswer": "Pancreas"
+        },
+        {
+          "category": "Vehicles",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "Which of the following Union Pacific 'Big Boy' locomotives was restored to working order in 2019?",
+          "chosenAnswer": "4014",
+          "correctAnswer": "4014"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the lowest layer of the Earth's atmosphere named?",
+          "chosenAnswer": "Stratosphere",
+          "correctAnswer": "Troposphere"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "According to scholarly estimates, what percentage of the world population at the time died due to Tamerlane's conquests?",
+          "chosenAnswer": "1%",
+          "correctAnswer": "5%"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In an orchestra, what is the lowest member of the brass family?",
+          "chosenAnswer": "Bassoon",
+          "correctAnswer": "Tuba"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is Canada's smallest province?",
+          "chosenAnswer": "New Brunswick",
+          "correctAnswer": "Prince Edward Island"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+          "chosenAnswer": "Garmanicus",
+          "correctAnswer": "Hannibal"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which element has the chemical symbol 'Fe'?",
+          "chosenAnswer": "Iron",
+          "correctAnswer": "Iron"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "What type of creature is a Bonobo?",
+          "chosenAnswer": "Ape",
+          "correctAnswer": "Ape"
+        }
+      ],
+      "timeSeconds": 79,
+      "submittedAt": "2026-08-10T23:57:46.526Z"
+    }
+  },
+  "2026-08-11": {
+    "Nathan": {
+      "score": 6,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Vehicles",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "The difference between the lengths of a Boeing 777-300ER and an Airbus A350-1000 is closest to:",
+          "chosenAnswer": "0.1m",
+          "correctAnswer": "0.1m"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of these bands is the oldest?",
+          "chosenAnswer": "AC/DC",
+          "correctAnswer": "Pink Floyd"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who discovered the Law of Gravity?",
+          "chosenAnswer": "Sir Isaac Newton",
+          "correctAnswer": "Sir Isaac Newton"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "When was the Tamagotchi digital pet released?",
+          "chosenAnswer": "1992",
+          "correctAnswer": "1996"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In Mulan (1998), who is the leader of the Huns?",
+          "chosenAnswer": "Li Shang",
+          "correctAnswer": "Shan Yu"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+          "chosenAnswer": "7 - 1",
+          "correctAnswer": "7 - 1"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Whose albums included \"Back in Black\" and \"Ballbreaker\"?",
+          "chosenAnswer": "AC/DC",
+          "correctAnswer": "AC/DC"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "What is the birth name of Michael Caine?",
+          "chosenAnswer": "Maurice Micklewhite",
+          "correctAnswer": "Maurice Micklewhite"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which European city is known as the \"City of Light\"?",
+          "chosenAnswer": "Paris",
+          "correctAnswer": "Paris"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+          "chosenAnswer": "C21H23NO3",
+          "correctAnswer": "C18H27NO3"
+        }
+      ],
+      "timeSeconds": 74,
+      "submittedAt": "2026-08-11T14:26:46.979Z"
+    }
+  },
+  "2026-08-12": {
+    "Nathan": {
+      "score": 7,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Waluigi's first appearance was in what game?",
+          "chosenAnswer": "Mario Party (N64)",
+          "correctAnswer": "Mario Tennis 64 (N64)"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of these fast-food chains is NOT mainly known to sell pizza?",
+          "chosenAnswer": "Wendy's",
+          "correctAnswer": "Wendy's"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In which British seaside town was the BBC sitcom \"Fawlty Towers\" set?",
+          "chosenAnswer": "Blackpool",
+          "correctAnswer": "Torquay"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which famous book is sub-titled 'The Modern Prometheus'?",
+          "chosenAnswer": "Frankenstein",
+          "correctAnswer": "Frankenstein"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Earth is located in which galaxy?",
+          "chosenAnswer": "The Milky Way Galaxy",
+          "correctAnswer": "The Milky Way Galaxy"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "\"Some people call me the space cowboy\" is the first line from what song?",
+          "chosenAnswer": "The Joker",
+          "correctAnswer": "The Joker"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which alternative rock band released the critically-acclaimed album \"OK Computer\"?",
+          "chosenAnswer": "Radiohead",
+          "correctAnswer": "Radiohead"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+          "chosenAnswer": "Ming Tea",
+          "correctAnswer": "Ming Tea"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Peter Jackson's film series \"The Lord of the Rings\" was shot entirely in which country?",
+          "chosenAnswer": "New Zealand",
+          "correctAnswer": "New Zealand"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "What year was Queen Elizabeth II born?",
+          "chosenAnswer": "1929",
+          "correctAnswer": "1926"
+        }
+      ],
+      "timeSeconds": 82,
+      "submittedAt": "2026-08-12T14:07:07.440Z"
+    },
+    "Michaela": {
+      "score": 8,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Waluigi's first appearance was in what game?",
+          "chosenAnswer": "Mario Tennis 64 (N64)",
+          "correctAnswer": "Mario Tennis 64 (N64)"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of these fast-food chains is NOT mainly known to sell pizza?",
+          "chosenAnswer": "Wendy's",
+          "correctAnswer": "Wendy's"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In which British seaside town was the BBC sitcom \"Fawlty Towers\" set?",
+          "chosenAnswer": "Bournemouth",
+          "correctAnswer": "Torquay"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which famous book is sub-titled 'The Modern Prometheus'?",
+          "chosenAnswer": "Frankenstein",
+          "correctAnswer": "Frankenstein"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Earth is located in which galaxy?",
+          "chosenAnswer": "The Milky Way Galaxy",
+          "correctAnswer": "The Milky Way Galaxy"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "\"Some people call me the space cowboy\" is the first line from what song?",
+          "chosenAnswer": "The Joker",
+          "correctAnswer": "The Joker"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which alternative rock band released the critically-acclaimed album \"OK Computer\"?",
+          "chosenAnswer": "Radiohead",
+          "correctAnswer": "Radiohead"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+          "chosenAnswer": "Mister E",
+          "correctAnswer": "Ming Tea"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Peter Jackson's film series \"The Lord of the Rings\" was shot entirely in which country?",
+          "chosenAnswer": "New Zealand",
+          "correctAnswer": "New Zealand"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "What year was Queen Elizabeth II born?",
+          "chosenAnswer": "1926",
+          "correctAnswer": "1926"
+        }
+      ],
+      "timeSeconds": 82,
+      "submittedAt": "2026-08-13T02:06:32.359Z"
+    }
+  },
+  "2026-08-13": {
+    "Nathan": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In Half-Life, what is the name of the alien that attaches to heads?",
+          "chosenAnswer": "Facehugger",
+          "correctAnswer": "Headcrab"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which gaming console is developed by Sony?",
+          "chosenAnswer": "PlayStation",
+          "correctAnswer": "PlayStation"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the name of Eragon's dragon in \"Eragon\"?",
+          "chosenAnswer": "Arya",
+          "correctAnswer": "Saphira"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of these is not a member of the virtual band Gorillaz?",
+          "chosenAnswer": "Murdoc Niccals",
+          "correctAnswer": "Phi Cypher"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following is not a studio album by the band Pink Floyd?",
+          "chosenAnswer": "Moving Pictures",
+          "correctAnswer": "Moving Pictures"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Approximately how many Apple I personal computers were created?",
+          "chosenAnswer": "500",
+          "correctAnswer": "200"
+        },
+        {
+          "category": "Vehicles",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Which Variable Valve Timing technology is used by BMW?",
+          "chosenAnswer": "VVEL",
+          "correctAnswer": "VANOS"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Prior to working at Wizards of the Coast, \"Mark Rosewater\" was a writer for which show?",
+          "chosenAnswer": "The X-Files",
+          "correctAnswer": "Roseanne"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Who was featured in the song \"Words\" by Feint? ",
+          "chosenAnswer": "Anna Yvette ",
+          "correctAnswer": "Laura Brehm"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who played General Aladeen in The Dictator?",
+          "chosenAnswer": "Sacha Baron Cohen",
+          "correctAnswer": "Sacha Baron Cohen"
+        }
+      ],
+      "timeSeconds": 71,
+      "submittedAt": "2026-08-13T15:13:34.229Z"
+    }
+  }
+}
